@@ -4,5 +4,6 @@ public class a {
 		System.out.println("Hello world!!!");
 		System.out.println("Hello world!!!");
 		System.out.println("Hello world!!!");
+		System.out.println("idea caozuo !!!");
 	}
 }
